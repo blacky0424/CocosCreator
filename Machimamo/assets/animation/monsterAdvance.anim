@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monsterAdvance",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            400
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            200
+          ]
+        }
+      ],
+      "x": [
+        {
+          "frame": 3,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b7e7d780-98c5-4452-af4a-272ad35edbf3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "takoyaki": {
+      "ver": "1.0.3",
+      "uuid": "4163c81d-3de9-4501-85d0-cfb8f1fc0aa2",
+      "rawTextureUuid": "b7e7d780-98c5-4452-af4a-272ad35edbf3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 243,
+      "height": 208,
+      "rawWidth": 243,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

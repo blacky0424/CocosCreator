@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TitleCrow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.8333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "width": [],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            551,
+            96
+          ]
+        },
+        {
+          "frame": 0.65,
+          "value": [
+            337,
+            53
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": [
+            128,
+            96
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -81,
+            66
+          ]
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": [
+            -278,
+            96
+          ]
+        },
+        {
+          "frame": 3.316666666666667,
+          "value": [
+            -462,
+            70
+          ]
+        },
+        {
+          "frame": 3.8333333333333335,
+          "value": [
+            -556,
+            104
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

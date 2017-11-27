@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TitleBoy",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -421,
+            -265
+          ]
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": [
+            -421,
+            -146
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -421,
+            -271
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            415,
+            -271
+          ]
+        },
+        {
+          "frame": 2.75,
+          "value": [
+            415,
+            -155
+          ]
+        },
+        {
+          "frame": 3,
+          "value": [
+            415,
+            -265
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
