@@ -25,4 +25,4 @@
 
 実行ファイル:Machimamo\build\jsb-default\publish\win32\MyProject.exe
 スクリプトフォルダ:Machimamo\assets\scripts
-プレイ動画URL:
+プレイ動画URL:https://youtu.be/WJCah3Osuxs
